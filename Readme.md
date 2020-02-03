@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Динара Андрианова](https://up.htmlacademy.ru/react/3/user/90549).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Кибардин](https://htmlacademy.ru/profile/id1353753).
 
 ---
 
